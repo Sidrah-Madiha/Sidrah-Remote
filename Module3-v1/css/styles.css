@@ -61,18 +61,18 @@ padding-top: 5px;
 	font-weight: bold;
 }
 
-#para-custom
+#para-custom,#para-custom1,#para-custom2
 {
 	background-color: #ffffb3;
 	margin:5px;
 
 }
-#para-custom h3
+#para-custom h3,#para-custom1 h3,#para-custom2 h3
 {
 	padding-top:10px;
 }
 
-#para-custom p
+#para-custom p,#para-custom1 p,#para-custom2 p
 {
 	padding:5px;
 	margin: 10px;
